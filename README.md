@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amlan Mishra
-- 👀 I’m interested in Computational Physics and Scientific SImulations. I have worked with Lattice Boltzmann Methods for Fluid Dynamic Simulations and Contact Simulations using Surface Topography
-- 🌱 I’m currently learning Spectral Simulation Methods
-- 💞️ I’m looking to collaborate on Lattice Boltzmann Methods and Contact Mechanics Simulations
+- 👀 I’m interested in Artificial Intelligence, Computational Physics and Scientific SImulations. I have worked with Lattice Boltzmann Methods for Fluid Dynamic Simulations and Contact Simulations using Surface Topography
+- 🌱 I’m currently working on Material layout optimization of microstructures using Deep learning algorithm 
+- 💞️ I’m looking to collaborate on Deep learning projects
 - 📫 Reach me: amlan.mishra97@gmail.com
 
 <!---
